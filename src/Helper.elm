@@ -56,4 +56,3 @@ hyperlink url linkText =
     Html.a
         [ Html.Attributes.href url ]
         [ Html.text linkText ]
-
